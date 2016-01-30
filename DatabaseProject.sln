@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DatabaseProject", "DatabaseProject\DatabaseProject.sqlproj", "{191E96CA-FCA5-4F7D-BC1F-2A79B4B96935}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{191E96CA-FCA5-4F7D-BC1F-2A79B4B96935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{191E96CA-FCA5-4F7D-BC1F-2A79B4B96935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{191E96CA-FCA5-4F7D-BC1F-2A79B4B96935}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{191E96CA-FCA5-4F7D-BC1F-2A79B4B96935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{191E96CA-FCA5-4F7D-BC1F-2A79B4B96935}.Release|Any CPU.Build.0 = Release|Any CPU
+		{191E96CA-FCA5-4F7D-BC1F-2A79B4B96935}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
